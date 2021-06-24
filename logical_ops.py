@@ -23,8 +23,8 @@ print(d)
 print("""In summary, 0 represents 'FALSE' in logical operators and 1 represents 'TRUE'\n so 'not 0' gives us 'TRUE' and 'not TRUE' gives us 'FALSE'""")
 
 
-g = 00000000000000000000000000001111
-f = 00000000000000000000000000010110
+g = 0o1111
+f = 0o10110
 
 print("Testing the working of logical 'and'")
 
